@@ -17,3 +17,7 @@ THEN I find a concise, descriptive title
 
 INDEX.html and Style.CSS have been pushed to github
 
+Screenshot of website here:
+<img src="https://github.com/supremesquid/Challenge_1/blob/main/assets/images/Welcome%20to%20Horiseon!.png">
+
+https://supremesquid.github.io/Challenge_1/
